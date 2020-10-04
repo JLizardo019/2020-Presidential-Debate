@@ -1,7 +1,7 @@
 let data;
 // 0 for chris, 1 for biden, 2 for trump
 let person;
-let articles = ["a", "is", "of", "in", "to", "an", "the", "and", "on"]; // words not to include
+let articles = ["a", "is", "of", "in", "to", "an", "the", "and", "on", "it", "that", "at"]; // words not to include
 let counter = 0;
 
 let trump =
