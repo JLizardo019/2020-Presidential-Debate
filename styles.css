@@ -1,0 +1,13 @@
+body {
+    background: rgb(11,173,237);
+    background: linear-gradient(139deg, rgba(11,173,237,1) 0%, rgba(230,12,12,1) 100%);
+}
+
+#main {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif; 
+    color: rgba(255, 255, 255, 0.849);
+}
